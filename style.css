@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+}
+
+.title {
+  font-family: sans-serif;
+  text-decoration: underline;
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.mk-image {
+  height: 200px;
+  width: 200px;
+  padding-left: 555px;
+}
+
+.history-title {
+  color: cornflowerblue;
+  font-family: sans-serif;
+}
+
+.history {
+  color: white;
+  border-style: dashed;
+  border-color: white;
+  padding: 30px;
+}
+
+.contributions-title {
+  color: cornflowerblue;
+  font-family: sans-serif;
+}
+
+.contributions {
+  color: white;
+  border-style: dashed;
+  border-color: white;
+  padding: 30px;
+}
+
+.quote-title {
+  color: cornflowerblue;
+  font-family: sans-serif;
+}
+
+.quote {
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.author {
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+}
