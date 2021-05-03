@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+
+.title {
+  text-align: center;
+  color: pink;
+  font-size: 100px;
+}
